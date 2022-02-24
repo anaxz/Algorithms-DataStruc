@@ -1,5 +1,3 @@
-/* Algorithm Coursework 2016      Name: Anna Huang (ma304ah) & Angela Pham (ma302ap)      Date: 22/2/16 */
-
 //12 rows & col                  //counter: how many times user has played
 int world_h = height/2, world_w = width/2, play1_counter = -1, play2_counter = -1;
 String typing = "", letter = "";
